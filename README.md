@@ -55,7 +55,7 @@ Household and property system for your RP: homes, rooms, states and everything y
 - 🏠 **Tavo Hub** — https://hub.tavoai.dev/creators/HQ4G1
 - ☕ **Support me (Boosty)** — https://boosty.to/floryhibi
 - 🌐 **Website** — https://floryhibi.ru
-- 💬 **Discord** — https://discord.gg/rRNb9BB2
+- 💬 **Discord** — https://discord.gg/zDH54uDArA
 
 ## 📜 License
 
