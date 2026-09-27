@@ -62,4 +62,4 @@ Household and property system for your RP: homes, rooms, states and everything y
 
 ---
 
-<p align="center">made with 🌸 by <b>@floryhibi</b> (formerly Codex Workshop)</p>
+<p align="center">made with 🌸 by <b>@floryhibi</b> </p>
