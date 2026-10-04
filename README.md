@@ -35,7 +35,7 @@ A living book of supernatural natures: vampire, kitsune, werewolf, witch, mage, 
 
 ## 📂 Organizer
 
-A library organization plugin for TavoAI.
+A library organization plugin for TavoAI. Folders, tags, favourites, smart folders and search — designed to keep your Tavo library organised without changing the original objects.
 
 <p align="center"><img src="docs/screenshots/organizer.jpg" width="55%"></p>
 
