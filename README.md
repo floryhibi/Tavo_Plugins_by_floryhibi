@@ -33,6 +33,12 @@ A living book of supernatural natures: vampire, kitsune, werewolf, witch, mage, 
 
 <p align="center"><img src="docs/screenshots/codex.jpg" width="40%"></p>
 
+## 📂 Organizer
+
+A library organization plugin for TavoAI.
+
+<p align="center"><img src="docs/screenshots/organizer.jpg" width="55%"></p>
+
 ## 🎨 Facets
 
 Dossier generator: 26 topics of character tastes and traits (food, music, fears, habits…) rendered as a beautiful floating card panel.
