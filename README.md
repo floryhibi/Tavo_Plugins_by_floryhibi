@@ -1,11 +1,11 @@
 # 🧩 TavoAi Plugins by @floryhibi
 
-> Six modular plugins for **TavoAi** — relationships, biology, supernatural lore, character dossiers, estates and an AI companion watching your RP.
+> Eight modular plugins for **TavoAi** — relationships, biology, supernatural lore, character dossiers, estates, an AI companion watching your RP, a library organizer and a token debugger.
 
-[![Download](https://img.shields.io/badge/Download-v1.0-ff69b4?style=for-the-badge)](https://github.com/floryhibi/Tavo_Plugins_by-floryhibi/releases/tag/v1.0)
+[![Download](https://img.shields.io/badge/Download-v2.1-ff69b4?style=for-the-badge)](https://github.com/floryhibi/Tavo_Plugins_by_floryhibi/releases/latest)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)
 
-All plugins are bilingual **EN/RU** — the interface follows your TavoAi language automatically.
+All plugins speak **EN/RU**, and Organizer, Observer and Prompt Debugger also speak **中文** — the interface follows your TavoAi language automatically.
 
 ---
 
@@ -39,6 +39,12 @@ A library organization plugin for TavoAI. Folders, tags, favourites, smart folde
 
 <p align="center"><img src="docs/screenshots/organizer.jpg" width="55%"></p>
 
+## 🧪 Prompt Debugger
+
+See how many tokens every generation spends and what your prompt is made of: preset entries, character card, persona, triggered lorebook entries (constant + keyword), chat history and the model reply. Shows context-limit fill, block shares, cost at your prices, per-chat and per-session totals, and an **Estimate now** button to check the prompt size before you send. Numbers are estimates (±10–20%) — TavoAi does not expose the provider's exact token usage to plugins.
+
+<p align="center"><img src="docs/screenshots/prompt_debugger.jpg" width="40%"></p>
+
 ## 🎨 Facets
 
 Dossier generator: 26 topics of character tastes and traits (food, music, fears, habits…) rendered as a beautiful floating card panel.
@@ -51,9 +57,9 @@ Household and property system for your RP: homes, rooms, states and everything y
 
 ## ⬇️ Install
 
-1. Download the `.tpg` files from the [**Releases**](https://github.com/floryhibi/Tavo_Plugins_by-floryhibi/releases/tag/v1.0) page (Assets).
+1. Download the `.tpg` files from the [**Releases**](https://github.com/floryhibi/Tavo_Plugins_by_floryhibi/releases/latest) page (Assets).
 2. TavoAi → **Plugins** → import each `.tpg`.
-3. Open the plugin panel and adjust settings — each plugin stores data per chat.
+3. Open the plugin panel and adjust settings.
 
 ## 🔗 Links
 
