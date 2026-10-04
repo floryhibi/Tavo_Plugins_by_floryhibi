@@ -58,6 +58,7 @@ Household and property system for your RP: homes, rooms, states and everything y
 ## 🔗 Links
 
 - 🌸 **PeonySet preset** — https://github.com/floryhibi/Tavo_PeonySet_by-floryhibi
+- 🪷 **JadeImmortal preset** — https://github.com/floryhibi/Tavo_JadeImmortal_by-floryhibi
 - 🏠 **Tavo Hub** — https://hub.tavoai.dev/creators/HQ4G1
 - ☕ **Support me (Boosty)** — https://boosty.to/floryhibi
 - 🌐 **Website** — https://floryhibi.ru
