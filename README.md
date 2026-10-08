@@ -1,13 +1,23 @@
 # 🧩 TavoAi Plugins by @floryhibi
 
-> Eight modular plugins for **TavoAi** — relationships, biology, supernatural lore, character dossiers, estates, an AI companion watching your RP, a library organizer and a token debugger.
+> Nine modular plugins for **TavoAi** — a full smartphone inside your RP, relationships, biology, supernatural lore, character dossiers, estates, an AI companion watching your RP, a library organizer and a token debugger.
 
-[![Download](https://img.shields.io/badge/Download-v2.1-ff69b4?style=for-the-badge)](https://github.com/floryhibi/Tavo_Plugins_by_floryhibi/releases/latest)
+[![Download](https://img.shields.io/badge/Download-v2.2-ff69b4?style=for-the-badge)](https://github.com/floryhibi/Tavo_Plugins_by_floryhibi/releases/latest)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)
 
 All plugins speak **EN/RU**, and Organizer, Observer and Prompt Debugger also speak **中文** — the interface follows your TavoAi language automatically.
 
 ---
+
+## 📱 Phone
+
+A full iPhone inside your roleplay: lock screen with Face ID / passcode, Dynamic Island, notifications and smooth iOS-style animations. Text your character (photos, voice notes, reactions — they send selfies and text first when it fits the story), call each other, scroll Instagram, Twitter (X), Telegram channels, Discord, live streams and a dating app. Plus a bank with cards and Apple Pay, a shop with cart, music picked for the current scene, Google-style search, weather, notes, a gallery and games you can play against your character. Everything you do on the phone is quietly passed to the AI, and the phone's clock always follows the RP time.
+
+<p align="center">
+  <img src="docs/screenshots/phone_home.jpg" width="31%">
+  <img src="docs/screenshots/phone_bank.jpg" width="31%">
+  <img src="docs/screenshots/phone_games.jpg" width="31%">
+</p>
 
 ## 💘 Love Lab — Compatibility Laboratory
 
