@@ -47,7 +47,7 @@ See how many tokens every generation spends and what your prompt is made of: pre
 
 ## 📱 Phone
 
-A full iPhone inside your roleplay: lock screen with Face ID / passcode, Dynamic Island, notifications and smooth iOS-style animations. Text your character (photos, voice notes, reactions — they send selfies and text first when it fits the story), call each other, scroll Instagram, Twitter (X), Telegram channels, Discord, live streams and a dating app. Plus a bank with cards and Apple Pay, a shop with cart, music picked for the current scene, Google-style search, weather, notes, a gallery and games you can play against your character. Everything you do on the phone is quietly passed to the AI, and the phone's clock always follows the RP time.
+A full iPhone inside your roleplay: lock screen with Face ID / passcode, Dynamic Island, notifications and smooth iOS-style animations. Text your character (photos, voice notes, reactions — they send selfies and text first when it fits the story), call each other, scroll Instagram, Twitter (X), Telegram channels, Discord, live streams and a dating app, answer anonymous questions and spread rumors in Whisper. Plus a bank with cards and Apple Pay, a shop with cart, bets on what happens next in the story with blackjack, roulette and a loan shark, music picked for the current scene, Google-style search, weather, notes, a gallery and games you can play against your character. Everything you do on the phone is quietly passed to the AI, and the phone's clock always follows the RP time.
 
 <p align="center">
   <img src="docs/screenshots/phone_home.jpg" width="31%">
