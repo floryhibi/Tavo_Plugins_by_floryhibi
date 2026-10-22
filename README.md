@@ -1,13 +1,26 @@
 # 🧩 TavoAi Plugins by @floryhibi
 
-> Nine modular plugins for **TavoAi** — a full smartphone inside your RP, relationships, biology, supernatural lore, character dossiers, estates, an AI companion watching your RP, a library organizer and a token debugger.
+> Ten modular plugins for **TavoAi** — an in-story calendar that makes the AI remember your schedule and holidays, a full smartphone inside your RP, relationships, biology, supernatural lore, character dossiers, estates, an AI companion watching your RP, a library organizer and a token debugger.
 
 [![Download](https://img.shields.io/badge/Download-v2.2-ff69b4?style=for-the-badge)](https://github.com/floryhibi/Tavo_Plugins_by_floryhibi/releases/latest)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)
 
-All plugins speak **EN/RU**, and Organizer, Observer and Prompt Debugger also speak **中文** — the interface follows your TavoAi language automatically.
+All plugins speak **EN/RU**, and Event Calendar, Organizer, Observer and Prompt Debugger also speak **中文** — the interface follows your TavoAi language automatically (Event Calendar also has its own language button).
 
 ---
+
+## 📅 Event Calendar
+
+Ever noticed how the model slacks on your schedule in a university or office roleplay? And holidays — it couldn't care less, until on your birthday your char suddenly pulls a gift out of thin air 😪 Event Calendar makes the AI **remember**: classes, work shifts, trainings, habits, daily routine, birthdays and holidays.
+
+- **🕰 Story time, not real time** — follows the in-story date and time from the chat (works together with Phone and Reproductive System). A lecture from 10:00 to 12:00 doesn't end at 10:20 unless the story gives a reason; realistic, free and fixed-duration modes.
+- **✨ Schedule from the roleplay** — reads the character, your persona and the chat, works out where you study or work (say, an architecture student) and proposes a weekly timetable with real subjects, times and rooms.
+- **📅 Calendar** — month grid, day timeline with checklists, to-do list, event pages with lore; recurring events (weekdays, chosen days, monthly, yearly) with single-occurrence moves and cancellations.
+- **🔔 The AI doesn't forget** — hidden reminders before events (a week … 5 minutes, for whom you choose), statuses (in progress, done, left early, missed, cancelled, moved), time skips reconciled, pop-up notifications in the chat.
+- **🎊 Holidays & personal dates** — the closer the holiday, the more the world prepares; your char has thoughts about it and a gift that's prepared step by step; participants with their own plans and surprises; birthdays and anniversaries with "does the character know"; a recap the next day with consequences remembered.
+- **📝 Diary, 🌙 dark theme, 🌐 RU / EN / 中** — the language button also switches the language of everything the plugin builds.
+
+<p align="center"><img src="docs/screenshots/event_calendar.jpg" width="90%"></p>
 
 ## 💘 Love Lab — Compatibility Laboratory
 
