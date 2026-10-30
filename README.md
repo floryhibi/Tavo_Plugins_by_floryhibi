@@ -1,13 +1,50 @@
 # 🧩 TavoAi Plugins by @floryhibi
 
-> Ten modular plugins for **TavoAi** — an in-story calendar that makes the AI remember your schedule and holidays, a full smartphone inside your RP, relationships, biology, supernatural lore, character dossiers, estates, an AI companion watching your RP, a library organizer and a token debugger.
+> Twelve modular plugins for **TavoAi** — a character atelier with tap-to-pick questionnaires, a director's desk under every reply, an in-story calendar that makes the AI remember your schedule and holidays, a full smartphone inside your RP, relationships, biology, supernatural lore, character dossiers, estates, an AI companion watching your RP, a library organizer and a token debugger.
 
 [![Download](https://img.shields.io/badge/Download-v2.2-ff69b4?style=for-the-badge)](https://github.com/floryhibi/Tavo_Plugins_by_floryhibi/releases/latest)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)
 
-All plugins speak **EN/RU**, and Event Calendar, Organizer, Observer and Prompt Debugger also speak **中文** — the interface follows your TavoAi language automatically (Event Calendar also has its own language button).
+All plugins speak **EN/RU**, and Persona Atelier, Scene Director, Event Calendar, Organizer, Observer and Prompt Debugger also speak **中文** — the interface follows your TavoAi language automatically (Event Calendar also has its own language button).
 
 ---
+
+## ✦ Persona Atelier
+
+Ever opened a blank character card and just… froze? Persona Atelier lets you tap your way to a {{char}} or your own {{user}} persona — pick, don't type.
+
+- **🪡 Patterns** — 13 character and 8 persona archetypes fill the whole form in one tap (Ice for everyone but her, Vampire collector, Card sharp, Relic hunter, Embassy interpreter…), then tailor anything.
+- **💊 Pill questionnaire with emoji** — 10 short steps: identity, appearance, personality, life & hobbies, past, motives, relationships, voice and scenario. "Other" is always there for your own words.
+- **🔞 Intimacy 18+ (optional)** — orientation, role, style, kinks & fetishes, turn-ons and hard limits. Off by default; nothing from it is used until you turn it on.
+- **📌 Moodboard** — photos or links (Pinterest works), a note on each picture and an automatic color palette; the AI writes the look and vibe from your palette, notes and mood words.
+- **🏷️ AI profile editor** — a full, consistent profile; regenerate or refine one section, consistency check, suggestions. Your own choices are marked and never silently rewritten.
+- **📤 Export** — create the character or persona right in Tavo, or export Character Card V3, JSON, Markdown or text. Works with your current Tavo model or any OpenAI-compatible API.
+
+<p align="center">
+  <img src="docs/screenshots/atelier_patterns.jpg" width="24%">
+  <img src="docs/screenshots/atelier_pills.jpg" width="24%">
+  <img src="docs/screenshots/atelier_moodboard.jpg" width="24%">
+  <img src="docs/screenshots/atelier_tag.jpg" width="24%">
+</p>
+
+## 🎬 Scene Director
+
+A director's desk right under {{char}}'s last message — you call the shots, the AI plays them out.
+
+- **🎬 Director** — 3 story-specific suggestions after every reply plus 16 commands (bad news, uninvited guest, secret revealed, confession, rival, time skip, flashback, cliffhanger…). Mix up to 3, choose the strength; clashing commands are caught before they reach the AI.
+- **🧵 Story threads** — finds unresolved hooks in your roleplay; activate, develop, resolve or drop them.
+- **🎲 Fate** — common, uncommon, rare or ✨ legendary twists; accept, save for later or reroll. Legendary takes are golden, never repeat and sometimes appear on their own.
+- **🌙 Atmosphere** — 9 moods and dials for tension, romance, mystery, drama, humor and pacing.
+- **🔀 What if…?** — 3 alternative directions for the very next reply.
+- **📜 Chronicle** — every directed moment logged and linked to its message.
+- **🛡️ {{user}} stays yours** — the director never decides your actions, words or feelings. One AI request per reply, a manual mode to save tokens, Tavo model or any OpenAI-compatible API.
+
+<p align="center">
+  <img src="docs/screenshots/director_main.jpg" width="24%">
+  <img src="docs/screenshots/director_threads.jpg" width="24%">
+  <img src="docs/screenshots/director_fate.jpg" width="24%">
+  <img src="docs/screenshots/director_atmosphere.jpg" width="24%">
+</p>
 
 ## 📅 Event Calendar
 
@@ -80,7 +117,7 @@ Household and property system for your RP: homes, rooms, states and everything y
 
 ## ⬇️ Install
 
-1. Download the `.tpg` files from the [**Releases**](https://github.com/floryhibi/Tavo_Plugins_by_floryhibi/releases/latest) page (Assets).
+1. Download the `.tpg` files from this repository (or the [**Releases**](https://github.com/floryhibi/Tavo_Plugins_by_floryhibi/releases/latest) page), or install from [**Tavo Hub**](https://hub.tavoai.dev/creators/HQ4G1).
 2. TavoAi → **Plugins** → import each `.tpg`.
 3. Open the plugin panel and adjust settings.
 
